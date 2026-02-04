@@ -16,7 +16,7 @@ If you don't know how you can configure color schemes, check [this blog post](ht
 
 ## Table of contents
 
-## Light color schemes
+## Light color schemes !!!
 
 Light color scheme has to be defined using the css selector `:root` and `html[data-theme="light"]`.
 
