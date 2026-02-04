@@ -5,7 +5,7 @@ modDatetime: 2024-01-04T09:09:06.000Z
 title: Predefined color schemes
 slug: predefined-color-schemes
 featured: false
-draft: true
+draft: false
 tags:
   - color-schemes
 description: Some of the well-crafted, predefined color schemes for AstroPaper blog theme.
