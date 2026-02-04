@@ -1,18 +1,15 @@
 ---
 author: Sat Naing
-pubDatetime: 2022-09-26T12:13:24Z
-modDatetime: 2024-01-04T09:09:06Z
+pubDatetime: 2022-09-26T12:13:24.000Z
+modDatetime: 2024-01-04T09:09:06.000Z
 title: Predefined color schemes
 slug: predefined-color-schemes
 featured: false
-draft: false
+draft: true
 tags:
   - color-schemes
-description:
-  Some of the well-crafted, predefined color schemes for AstroPaper blog
-  theme.
+description: Some of the well-crafted, predefined color schemes for AstroPaper blog theme.
 ---
-
 I've crafted some predefined color schemes for this AstroPaper blog theme. You can replace these color schemes with the original ones.
 
 If you don't know how you can configure color schemes, check [this blog post](https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/).
@@ -25,7 +22,7 @@ Light color scheme has to be defined using the css selector `:root` and `html[da
 
 ### Lobster
 
-![lobster-color-scheme](https://user-images.githubusercontent.com/53733092/192282447-1d222faf-a3ce-44a9-9cfe-ac873155e5a9.png)
+![lobster-color-scheme](media/src/assets/images/1a80a84b9d66011251661bfd46af891f.jpg)
 
 ```css
 :root,
@@ -180,3 +177,5 @@ html[data-theme="dark"] {
   --color-border: 48, 63, 138;
 }
 ```
+
+​
